@@ -18,13 +18,13 @@ const char* default_SSID = "Wokwi-GUEST"; // Nome da rede Wi-Fi
 const char* default_PASSWORD = ""; // Senha da rede Wi-Fi
 const char* default_BROKER_MQTT = "20.118.32.32"; // IP da máquina virtual Broker MQTT
 const int default_BROKER_PORT = 1883; // Porta do Broker MQTT
-const char* default_TOPICO_SUBSCRIBE = "/TEF//cmd"; // Tópico MQTT de escuta
-const char* default_TOPICO_PUBLISH_1 = "/TEF//attrs"; // Tópico MQTT de envio de informações para Broker
-const char* default_TOPICO_PUBLISH_2 = "/TEF//attrs/l"; // Tópico MQTT de envio de informações para Broker
-const char* default_ID_MQTT = "fiware_"; // ID MQTT
+const char* default_TOPICO_SUBSCRIBE = "/TEF/NEXUSlamp/cmd"; // Tópico MQTT de escuta
+const char* default_TOPICO_PUBLISH_1 = "/TEF/NEXUSlamp/attrs"; // Tópico MQTT de envio de informações para Broker
+const char* default_TOPICO_PUBLISH_2 = "/TEF/NEXUSlamp/attrs/l"; // Tópico MQTT de envio de informações para Broker
+const char* default_ID_MQTT = "fiware_NEXUS"; // ID MQTT
 const int default_D4 = 2; // Pino do LED onboard
 // Declaração da variável para o prefixo do tópico
-const char* topicPrefix = "";
+const char* topicPrefix = "NEXUSlamp";
 
 // Variáveis para configurações editáveis
 char* SSID = const_cast<char*>(default_SSID);
