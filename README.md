@@ -30,3 +30,11 @@ e possibilitando o <strong>controle remoto da lâmpada do ESP32</strong> via <st
 <ul>
   <li>Acesso ao repósitorio do professor: <a href="https://github.com/fabiocabrini/fiware">Clique aqui</a></li>
 </ul>
+
+<h2>👥 Equipe CODE NEXUS</h2>
+<ul>
+  <li><strong>Francisco Vargas</strong> - RM560322</li>
+  <li><strong>Matheus Ikeda</strong> - RM559483</li>
+  <li><strong>Kayque Carvalho</strong> - RM561189</li>
+  <li><strong>Marcelo Affonso</strong> - RM559790</li>
+</ul>
