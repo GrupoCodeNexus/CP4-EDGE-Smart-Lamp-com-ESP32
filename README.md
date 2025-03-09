@@ -23,7 +23,7 @@ e possibilitando o <strong>controle remoto da lâmpada do ESP32</strong> via <st
   <li>✅ Configuração dos serviços do FIWARE.</li>
   <li>✅ Scripts de requisições para o Postman.</li>
   <li>✅ <strong>Link da simulação no Wokwi:</strong> <a href="https://wokwi.com/projects/424894710834486273">Clique aqui</a></li>
-  <li>✅ <strong>Vídeo demonstrativo do funcionamento:</strong> <a href="#"></a></li>
+  <li>✅ <strong>Vídeo demonstrativo do funcionamento:</strong> <a href="https://youtu.be/KEC6RMIt8Io">Clique aqui</a></li>
 </ul>
 
 <h2>🔗 Projeto Original</h2>
