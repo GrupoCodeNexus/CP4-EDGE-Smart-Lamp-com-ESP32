@@ -1,4 +1,3 @@
-
 <h1>CP4 - Monitoramento Global de Vinherias com FIWARE e ESP32</h1>
 
 <p>Este repositório contém a implementação do <strong>Check Point 4</strong>, onde utilizamos a plataforma <strong>FIWARE</strong> como back-end para um sistema de monitoramento de vinherias, 
