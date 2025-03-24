@@ -37,3 +37,8 @@ e possibilitando o <strong>controle remoto da lâmpada do ESP32</strong> via <st
   <li><strong>Kayque Carvalho</strong> - RM561189</li>
   <li><strong>Marcelo Affonso</strong> - RM559790</li>
 </ul>
+<h2>⚠️ Observação</h2>
+<p>Estamos clonando os nossos repositórios feitos em grupo e transferindo dos nossos perfis pessoais para a nossa organização</p>
+<ul>
+  <li>Acesso ao repositório original: <a href="https://github.com/Kay-Carv/CP4-EDGE-Smart-Lamp-com-ESP32">Clique aqui</a></li>
+</ul>
